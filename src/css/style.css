@@ -1,0 +1,29 @@
+img.displayed {
+    display: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65vw;
+}
+
+.text-image{
+    position: absolute;
+    bottom: -100px;
+    left:600px;
+}
+.img-section-right {
+    float: right;
+    width: 120px;
+    margin: 0 0 15px 20px;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  .img-section-left {
+    float: left;
+    width: 120px;
+    margin: 0 0 15px 20px;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+  }
